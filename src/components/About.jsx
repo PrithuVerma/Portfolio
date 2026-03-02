@@ -17,12 +17,12 @@ const About = () => {
       >
         <div className="flex justify-center md:justify-start">
           <div className="relative h-32 w-32 overflow-hidden rounded-full border border-navy/10 bg-navy/5 sm:h-40 sm:w-40">
-            <img
+            {/* <img
               src="Pfp.jpg"
               alt="/Users/neeraj/Desktop/Code/Portfolio/Pfp.jpg"
               loading="lazy"
               className="h-full w-full object-cover"
-            />
+            /> */}
           </div>
         </div>
 

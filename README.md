@@ -1,23 +1,54 @@
-## Data Analyst Portfolio
+# Data Analyst Portfolio
 
-Single-page, minimalist portfolio for a data analyst, built with React, Vite, Tailwind CSS, Framer Motion, React Scroll, and Lucide Icons.
+A minimalist, responsive one-page portfolio built to showcase my skills, projects, and technical expertise as a Data Analyst.
 
-### Run locally
+## 🔷 Live Demo
+(Insert Vercel link here after deployment)
 
-- Install dependencies: `npm install`
-- Start dev server: `npm run dev`
-- Open the local URL printed in the terminal (default `http://localhost:5173`)
+---
 
-### Build
+## 🚀 Tech Stack
 
-- Create production build: `npm run build`
-- Preview production build: `npm run preview`
+### Frontend
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
 
-### Deploy on Vercel
+### Tools
+- Git & GitHub
+- Vercel (Deployment)
 
-1. Push this project to a Git repository (GitHub, GitLab, or Bitbucket).
-2. In Vercel, create a new project and import the repository.
-3. Framework preset: **Vite** (or **Other** with build command `npm run build` and output directory `dist`).
-4. Set the install command to `npm install` (or `pnpm install` / `yarn` if you prefer).
-5. Deploy; Vercel will build and host the production bundle.
+---
 
+## 📂 Project Structure
+/src
+/components
+Navbar.jsx
+Hero.jsx
+About.jsx
+TechStack.jsx
+Projects.jsx
+Socials.jsx
+Footer.jsx
+App.jsx
+main.jsx
+
+---
+
+## 📊 Features
+
+- Single-page responsive design
+- Smooth scroll navigation
+- Sticky navbar with active section highlight
+- Modular component structure
+- Clean minimalist UI
+- Optimized for performance
+
+---
+
+## 🛠 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/data-analyst-portfolio.git

@@ -3,7 +3,7 @@
 A minimalist, responsive one-page portfolio built to showcase my skills, projects, and technical expertise as a Data Analyst.
 
 ## 🔷 Live Demo
-(Insert Vercel link here after deployment)
+[(Insert Vercel link here after deployment)](https://projectupdated.vercel.app/)
 
 ---
 

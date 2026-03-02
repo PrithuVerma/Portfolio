@@ -23,14 +23,14 @@ const Navbar = () => {
         aria-label="Primary"
       >
         <div className="flex items-center gap-2">
-          <div className="h-8 w-8 rounded-full bg-navy flex items-center justify-center text-background font-semibold">
-          {/* <img
+          {/* <div className="h-8 w-8 rounded-full bg-navy flex items-center justify-center text-background font-semibold">
+          <img
               src="Pfp.jpg"
               alt="/Users/neeraj/Desktop/Code/Portfolio/Pfp.jpg"
               loading="lazy"
               className="h-8 w-8 rounded-full object-cover"
-            /> */}
-          </div>
+            />
+          </div> */}
           <span className="text-sm font-semibold tracking-wide text-navy uppercase">
             Prithu Verma
           </span>
